@@ -1,1 +1,1 @@
-# uts-suardiseptian-pendaftaranmahasiswa
+# uts-suardi-pendaftaranmahasiswa
